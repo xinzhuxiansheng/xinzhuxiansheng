@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="http://xinzhuxiansheng.com/"><img src="https://img.shields.io/badge/Notion-%E9%98%BF%E6%B4%8B's_Blog-red?style=flat&logo=notion" /></a>
