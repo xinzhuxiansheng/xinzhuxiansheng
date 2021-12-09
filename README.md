@@ -1,4 +1,4 @@
-### Hi there 👋
+#### 阿洋 👋
 
 
 #### 🙃 Github Activity 
@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<br>
 
 <a href="http://xinzhuxiansheng.com/"><img src="https://img.shields.io/badge/Notion-%E9%98%BF%E6%B4%8B's_Blog-red?style=flat&logo=notion" /></a>
