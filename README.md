@@ -1,5 +1,6 @@
 ### 阿洋 👋
 
+Keep on Learning
 
 #### 🙃 Github Activity 
 <div>
@@ -7,6 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinzhuxiansheng&hide=css,html&langs_count=8&layout=compact" align="top" style="display: inline-block;"/>
 </div>
 
+<br>
+
+#### 🙃 阿洋聊大数据(公众号)
+<div>
+  <img src="https://user-images.githubusercontent.com/7881241/145440130-0393ddf8-6832-450e-aa31-9a2cd964c90e.png" width="200"/>
+</div>
 
 
 <!--
