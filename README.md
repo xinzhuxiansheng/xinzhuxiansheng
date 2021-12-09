@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+#### 🙃 Github Activity 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=xinzhuxiansheng&show_icons=true" align="top" style="display: inline-block;" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinzhuxiansheng&hide=css,html&langs_count=8&layout=compact" align="top" style="display: inline-block;"/>
+</div>
+
+
+
 <!--
 **xinzhuxiansheng/xinzhuxiansheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
