@@ -1,6 +1,8 @@
 ### Hello,wrld! 👋
 I am YangZhou, My current area of focus is ???
 
+📕  Blog
+http://xinzhuxiansheng.com
 
 #### 🙃 Github Activity 
 <div>
