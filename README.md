@@ -1,4 +1,4 @@
-### Hello,wrld! 👋
+### Hello,world! 👋
 I am YangZhou, My current area of focus is ???
 
 📕  Blog
