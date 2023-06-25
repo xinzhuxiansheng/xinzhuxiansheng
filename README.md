@@ -3,7 +3,9 @@
 [![Github](https://img.shields.io/github/followers/xinzhuxiansheng?label=Follow&style=social)](https://github.com/xinzhuxiansheng)
 <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=xinzhuxiansheng.xinzhuxiansheng" alt="visitor badge"/>  -->
 
-- 🌈 I'm currently working at home. 😎
+`I ❤ Open Open Source.`
+
+<!--- 🌈 I'm currently working at home. 😎-->
 - 🤔 I’m currently using `IDEAVim` `Java` `Scala` `GoLang` `K8s` 😁
 - 🤔 My current area of focus is `Kafka` `Pulsar` `K/V Database` `Flink` `Akka` etc 😁
 - 🌱 I’m currently learning `Functional Programming`
@@ -11,6 +13,17 @@
 - 📫 How to reach me. Email Address xinzhuxiansheng@126.com
 - 📕 My Blog Link [xinzhuxiansheng.com](http://xinzhuxiansheng.com)
 - 🤔 I’m looking for **a job**
+
+`🌈 My articles tags list`  
+
+- [Kafka](http://xinzhuxiansheng.com/?tag=Kafka)  
+- [Chat2DB](http://xinzhuxiansheng.com/?tag=Chat2DB)  
+- [Flink](http://xinzhuxiansheng.com/?tag=Flink)
+- [Akka](http://xinzhuxiansheng.com/?tag=Akka)
+
+... etc
+To see more, please visit http://xinzhuxiansheng.com/tags
+
 
 <!--
 #### 🙃 Github Activity 
