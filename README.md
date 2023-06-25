@@ -12,6 +12,7 @@
 - 📕 My Blog Link: [xinzhuxiansheng.com](http://xinzhuxiansheng.com)
 - 🤔 I’m looking for **a job**
 
+<!--
 #### 🙃 Github Activity 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=xinzhuxiansheng&show_icons=true" align="top" style="display: inline-block;" width="480"/>
@@ -24,7 +25,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/7881241/145440130-0393ddf8-6832-450e-aa31-9a2cd964c90e.png" width="200"/>
 </div>
-
+-->
 
 <!--
 **xinzhuxiansheng/xinzhuxiansheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,4 +45,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="http://xinzhuxiansheng.com/"><img src="https://img.shields.io/badge/Notion-%E9%98%BF%E6%B4%8B's_Blog-red?style=flat&logo=notion" /></a>
+<!--<a href="http://xinzhuxiansheng.com/"><img src="https://img.shields.io/badge/Notion-%E9%98%BF%E6%B4%8B's_Blog-red?style=flat&logo=notion" /></a>-->
