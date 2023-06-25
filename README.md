@@ -25,10 +25,11 @@
 To see more, please visit http://xinzhuxiansheng.com/tags
 
 
-<!--`🦀 Recently focus projects and peoples.`-->
- 
+`🦀 Recently focus projects and peoples.` 
+
+- 📁[kafka](https://github.com/apache/kafka)  
+- 📁[pulsar](https://github.com/apache/pulsar)  
 - 📁[Chat2DB](https://github.com/alibaba/Chat2DB)  
-</br>
 - 👦[K/V存储](https://github.com/roseduan)  
 - 👦[Kafka分层存储新特性](https://github.com/divijvaidya)     
 
