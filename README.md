@@ -6,7 +6,7 @@
 `I ❤ Open Open Source.`
 
 <!--- 🌈 I'm currently working at home. 😎-->
-- 🤔 I’m currently using `IDEAVim` `Java` `Scala` `GoLang` `K8s` 😁
+- 🤔 I’m currently using `Java` `Scala` `GoLang` `K8s` `IdeaVim` 😁
 - 🤔 My current area of focus is `Kafka` `Pulsar` `K/V Database` `Flink` `Akka` etc 😁
 - 🌱 I’m currently learning `Functional Programming`
 - ✈️ Open to Remote Job Opportunities 🍻
@@ -21,8 +21,32 @@
 - [Flink](http://xinzhuxiansheng.com/?tag=Flink)
 - [Akka](http://xinzhuxiansheng.com/?tag=Akka)
 
-... etc
+**... etc**
 To see more, please visit http://xinzhuxiansheng.com/tags
+
+
+<!--`🦀 Recently focus projects and peoples.`-->
+ 
+- 📁[Chat2DB](https://github.com/alibaba/Chat2DB)  
+</br>
+- 👦[K/V存储](https://github.com/roseduan)  
+- 👦[Kafka分层存储新特性](https://github.com/divijvaidya)     
+
+**... etc**
+
+</br>
+</br>
+</br>
+
+| 🎁 Project | 📬 Language | 🛎 Remark |
+| :----: | :----: | :----: |
+| [blog-notes ](https://github.com/xinzhuxiansheng/blog-notes) | markdown | 个人的技术分享 |
+| [scalahttpserver](https://github.com/xinzhuxiansheng/scalahttpserver) | Scala | 文件服务器 |
+| [javamain-services](https://github.com/xinzhuxiansheng/javamain-services) | Java | Java技术栈的调试项目 |
+| [bitcask-go-tiny](https://github.com/xinzhuxiansheng/bitcask-go-tiny) | Golang | 学习K/V存储实战 |
+
+**... etc**
+
 
 
 <!--
