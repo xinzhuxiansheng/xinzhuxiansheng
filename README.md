@@ -5,11 +5,11 @@
 
 - 🌈 I'm currently working at home. 😎
 - 🤔 I’m currently using `IDEAVim` `Java` `Scala` `GoLang` `K8s` 😁
-- 🤔 My current area of focus is `Kafka` `Pulsar` `K/V Database` `Flink` etc 😁
+- 🤔 My current area of focus is `Kafka` `Pulsar` `K/V Database` `Flink` `Akka` etc 😁
 - 🌱 I’m currently learning `Functional Programming`
 - ✈️ Open to Remote Job Opportunities 🍻
-- 📫 How to reach me. Email Address: xinzhuxiansheng@126.com
-- 📕 My Blog Link: [xinzhuxiansheng.com](http://xinzhuxiansheng.com)
+- 📫 How to reach me. Email Address xinzhuxiansheng@126.com
+- 📕 My Blog Link [xinzhuxiansheng.com](http://xinzhuxiansheng.com)
 - 🤔 I’m looking for **a job**
 
 <!--
