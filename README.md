@@ -21,7 +21,7 @@
 - [Flink](http://xinzhuxiansheng.com/?tag=Flink)
 - [Akka](http://xinzhuxiansheng.com/?tag=Akka)
 
-**... etc**
+**... etc**  
 To see more, please visit http://xinzhuxiansheng.com/tags
 
 
@@ -32,9 +32,7 @@ To see more, please visit http://xinzhuxiansheng.com/tags
 - 👦[K/V存储](https://github.com/roseduan)  
 - 👦[Kafka分层存储新特性](https://github.com/divijvaidya)     
 
-**... etc**
-
-</br>
+**... etc** 
 </br>
 </br>
 
@@ -45,7 +43,7 @@ To see more, please visit http://xinzhuxiansheng.com/tags
 | [javamain-services](https://github.com/xinzhuxiansheng/javamain-services) | Java | Java技术栈的调试项目 |
 | [bitcask-go-tiny](https://github.com/xinzhuxiansheng/bitcask-go-tiny) | Golang | 学习K/V存储实战 |
 
-**... etc**
+**... etc** 
 
 
 
