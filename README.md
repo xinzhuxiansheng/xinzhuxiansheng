@@ -41,7 +41,8 @@ To see more, please visit http://xinzhuxiansheng.com/tags
 
 | 🎁 Project | 📬 Language | 🛎 Remark |
 | :----: | :----: | :----: |
-| [blog-notes ](https://github.com/xinzhuxiansheng/blog-notes) | markdown | 个人的技术分享 |
+| [blog-notes](https://github.com/xinzhuxiansheng/blog-notes) | markdown | 个人的技术分享 |
+| [awesome-tiny](https://github.com/xinzhuxiansheng/awesome-tiny) | markdown | 学习优秀项目集合 |
 | [scalahttpserver](https://github.com/xinzhuxiansheng/scalahttpserver) | Scala | 文件服务器 |
 | [javamain-services](https://github.com/xinzhuxiansheng/javamain-services) | Java | Java技术栈的学习项目 |
 | [scalamain-services](https://github.com/xinzhuxiansheng/scalamain-services) | Java | Scala技术栈的学习项目 |
