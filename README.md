@@ -49,7 +49,8 @@ To see more, please visit http://xinzhuxiansheng.com/tags
 | [scalamain-services](https://github.com/xinzhuxiansheng/scalamain-services) | Java | Scala技术栈的学习项目 |
 | [flink-tutorial](https://github.com/xinzhuxiansheng/flink-tutorial) | Java | Flink技术栈的学习项目 |
 | [bitcask-go-tiny](https://github.com/xinzhuxiansheng/bitcask-go-tiny) | Golang | 学习K/V存储实战 |
-| [xraft-tiny](https://github.com/xinzhuxiansheng/xraft-tiny) | Java | 学习raft算法 |
+| [xraft-tiny](https://github.com/xinzhuxiansheng/xraft-tiny) | Java | 学习raft算法 |  
+| [mybatis-debug-project](https://github.com/xinzhuxiansheng/mybatis-debug-project) | Java | Mybatis源码调试项目 |  
 
 
 
