@@ -1,6 +1,7 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi boys 👋
 
 [![Github](https://img.shields.io/github/followers/xinzhuxiansheng?label=Follow&style=social)](https://github.com/xinzhuxiansheng)
+![](https://komarev.com/ghpvc/?username=xinzhuxiansheng&color=blue)
 <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=xinzhuxiansheng.xinzhuxiansheng" alt="visitor badge"/>  -->
 
 `I ❤ Open Open Source.`
