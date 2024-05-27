@@ -14,7 +14,7 @@
 - ✈️ Open to Remote Job Opportunities 🍻
 - 📫 How to reach me. Email Address xinzhuxiansheng@126.com
 - 📕 My Blog Link [xinzhuxiansheng.com](http://xinzhuxiansheng.com)
-- 📲 Welcome follow my 微信公众号: '阿洋聊大数据'
+- 📲 Welcome follow my WeChat Official Account: '阿洋聊大数据'
 <!--- 👷 I’m looking for **a job**-->
 
 `🌈 My articles tags list`  
